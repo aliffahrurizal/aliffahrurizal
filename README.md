@@ -1,5 +1,4 @@
-## 👋 Hello WORLD!
-Welcome to my GitHub!  
+## 👋 Hi, Welcome to my GitHub!  
 
 Feel free to explore my projects, contribute, or connect with me.  
 ## AI & Software Engineer

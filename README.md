@@ -1,69 +1,55 @@
-## 👋 Hello!
-
+## 👋 Hello WORLD!
 Welcome to my GitHub!  
-![Profile Views](https://profile-counter.glitch.me/51bitquant/count.svg)
 
 Feel free to explore my projects, contribute, or connect with me.  
-Happy coding!
-# 👨‍💻 Lin | Senior Full-Stack & Mobile Developer
+## AI & Software Engineer
 
-Welcome! I'm Lin, a passionate software engineer with **10+ years** crafting **scalable mobile apps** and **full-stack systems**. I thrive on building robust, cross-platform solutions and contributing to **open-source** projects, particularly in **quantitative trading automation**.
+🚀 **Welcome to my digital playground!** I'm a passionate software engineer with **6+ years** of experience architecting **AI-powered solutions** and **full-stack systems** that push the boundaries of what's possible. 
+
+💡 I specialize in crafting **intelligent trading bots** that turn market volatility into profit, building **scalable cloud architectures** that handle millions of transactions, and contributing to **open-source** projects that revolutionize **algorithmic trading** and **automation**. 
+
+🎯 From zero-latency trading algorithms to autonomous AI agents, I transform complex problems into elegant, profitable solutions that make a real impact in the fintech world.
 
 ## 🚀 What I Do
-- **LLM**: Langchain, Langgraph, N8N Automation, Cursor.
-- **Mobile Dev**: iOS (Swift/Objective-C), Flutter (MVVM)
-- **Frontend**: React.js (TypeScript), Ant Design
-- **Backend**: Dotnet, Python (Django, FastAPI), Node.js
-- **Cloud & DevOps**:
-  - **AWS**: EC2, S3, Lambda, DynamoDB, Elastic Load Balancer (ELB), SQS, SNS
-  - **Middleware & Caching**: RabbitMQ, AWS SQS, Redis
-  - **Web Servers**: Nginx for load balancing and reverse proxy
-  - **Tools**: CI/CD pipelines, Git, Github Actions, Docker, Kubernetes
-- **Protocols**: Https/WebSocket, BLE, Wi-Fi, MQTT
-- **Certifications**: AWS Certified Solutions Architect – Professional
+
+### 🤖 AI & Machine Learning
+- **Large Language Models**: Building intelligent applications with Langchain, Langgraph, and LlamaIndex
+- **AI Agents**: Developing autonomous AI agents for complex task automation and decision-making
+- **Open Source Models**: Proficient in fine-tuning and deploying open source LLMs (Llama, Mistral, CodeLlama, etc.)
+- **AI Automation**: Creating sophisticated workflows using Selenium, Make.com, and N8N Automation
+
+### 📈 Algorithmic Trading Development
+- **Trading Bots**: Building profitable automated trading bots for CEX (Binance, Coinbase, Kraken) and DEX (Uniswap, PancakeSwap, 1inch)
+- **Platform Development**: Creating comprehensive trading platforms with real-time data feeds and risk management
+- **Strategy Implementation**: Developing and backtesting quantitative trading strategies using Python and AI
+- **Market Making**: Building high-frequency trading systems and liquidity provision algorithms
+
+### 📱 Mobile Development
+- **iOS Development**: Native apps using Swift and Objective-C with modern iOS frameworks
+- **Performance**: Optimizing mobile apps for speed, memory efficiency, and user experience
+
+### 🌐 Frontend Development
+- **React Ecosystem**: Building dynamic UIs with React.js and TypeScript
+- **Next.js**: Creating full-stack applications with server-side rendering and static generation
+- **Modern Web**: Responsive design, progressive web apps, and performance optimization
+
+### ⚙️ Backend Development
+- **Python**: FastAPI and Django for rapid development and high-performance APIs
+- **Node.js**: JavaScript/TypeScript backend services and real-time applications
+- **.NET Core**: Scalable APIs and microservices with C# and .NET ecosystem
+
+
+### ☁️ Cloud & DevOps
+- **AWS**: EC2, S3, Lambda, DynamoDB, ELB, SQS, SNS for scalable cloud infrastructure
+- **Middleware**: RabbitMQ, Redis for message queuing and high-performance caching
+- **Infrastructure**: Nginx for load balancing and reverse proxy
+- **DevOps**: CI/CD pipelines, Docker, Kubernetes, Git workflows
+
+### 🏆 Professional Certifications
+- **AWS Certified Solutions Architect – Professional**: Advanced cloud architecture and design expertise
 
 I love architecting high-performance, distributed systems and sharing knowledge through open-source contributions.
 
 ---
 
-## 📊 GitHub Stats
-
-[![Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=51bitquant&show_icons=true&theme=tokyonight)](https://github.com/51bitquant)
-
----
-
-## 🌟 Featured Open-Source Projects
-
-- **[Howtrader](https://github.com/51bitquant/howtrader)**  
-  A modular algorithmic trading platform for building custom strategies.  
-  ⭐ *Ideal for developers creating tailored trading systems.*
-
-- **[Bitquant](https://github.com/51bitquant/bitquant)**  
-  An advanced Python framework for quantitative trading, simplifying strategy development, backtesting, and deployment.  
-  ⭐ *Empower your trading with robust, open-source tools.*
-
-- **[AI Hedge Fund Crypto](https://github.com/51bitquant/ai-hedge-fund-crypto)**  
-  An AI-powered crypto trading bot leveraging LLM models for market predictions.  
-  ⭐ *Discover automated trading through this educational prototype.*
-
-- **[Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader)**  
-  A lightweight grid trading bot for Binance with CLI and REST API support.  
-  ⭐ *Automate your crypto trades with ease.*
-
-- **[Multi-Pair Martingale Bot](https://github.com/51bitquant/multi_pairs_martingale_bot)**  
-  A versatile bot for futures and spot markets, handling multiple trading pairs.  
-  ⭐ *Test sophisticated trading strategies.*
-
-- **[Course Code Samples](https://github.com/51bitquant/course_codes)**  
-  Educational examples featuring Martingale, MACD, RSI, and crossover strategies.  
-  ⭐ *Learn algorithmic trading hands-on.*
-
-- **[TradingView Webhook Bot](https://github.com/51bitquant/binance-tradingview-webhook-bot)**  
-  A Binance trading bot that executes orders via TradingView webhook alerts for spot and futures markets.  
-  ⭐ *Seamlessly connect your TradingView signals to Binance.*
----
-
 ## 📬 Connect with Me
-
-Explore my repos, open an issue, or start a discussion! I'm always sharing insights on **mobile dev**, **algo trading**, and **automation**.
-- 🔗 **GitHub**: [51bitquant](https://github.com/51bitquant)

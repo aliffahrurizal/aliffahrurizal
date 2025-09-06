@@ -50,6 +50,3 @@ Feel free to explore my projects, contribute, or connect with me.
 
 I love architecting high-performance, distributed systems and sharing knowledge through open-source contributions.
 
----
-
-## 📬 Connect with Me

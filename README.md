@@ -1,7 +1,7 @@
 ## 👋 Hi, Welcome to my GitHub!  
 
 Feel free to explore my projects, contribute, or connect with me.  
-## AI & Software Engineer
+## Software Engineer
 
 🚀 **Welcome to my digital playground!** I'm a passionate software engineer with **6+ years** of experience architecting **AI-powered solutions** and **full-stack systems** that push the boundaries of what's possible. 
 
@@ -22,10 +22,6 @@ Feel free to explore my projects, contribute, or connect with me.
 - **Platform Development**: Creating comprehensive trading platforms with real-time data feeds and risk management
 - **Strategy Implementation**: Developing and backtesting quantitative trading strategies using Python and AI
 - **Market Making**: Building high-frequency trading systems and liquidity provision algorithms
-
-### 📱 Mobile Development
-- **iOS Development**: Native apps using Swift and Objective-C with modern iOS frameworks
-- **Performance**: Optimizing mobile apps for speed, memory efficiency, and user experience
 
 ### 🌐 Frontend Development
 - **React Ecosystem**: Building dynamic UIs with React.js and TypeScript

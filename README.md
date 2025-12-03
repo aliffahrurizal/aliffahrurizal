@@ -7,8 +7,6 @@ Feel free to explore my projects, contribute, or connect with me.
 
 💡 I specialize in crafting **intelligent trading bots** that turn market volatility into profit, building **scalable cloud architectures** that handle millions of transactions, and contributing to **open-source** projects that revolutionize **algorithmic trading** and **automation**. 
 
-🎯 From zero-latency trading algorithms to autonomous AI agents, I transform complex problems into elegant, profitable solutions that make a real impact in the fintech world.
-
 ## 🚀 What I Do
 
 ### 🤖 AI & Machine Learning
@@ -31,17 +29,11 @@ Feel free to explore my projects, contribute, or connect with me.
 ### ⚙️ Backend Development
 - **Python**: FastAPI and Django for rapid development and high-performance APIs
 - **Node.js**: JavaScript/TypeScript backend services and real-time applications
-- **.NET Core**: Scalable APIs and microservices with C# and .NET ecosystem
-
 
 ### ☁️ Cloud & DevOps
 - **AWS**: EC2, S3, Lambda, DynamoDB, ELB, SQS, SNS for scalable cloud infrastructure
-- **Middleware**: RabbitMQ, Redis for message queuing and high-performance caching
 - **Infrastructure**: Nginx for load balancing and reverse proxy
 - **DevOps**: CI/CD pipelines, Docker, Kubernetes, Git workflows
-
-### 🏆 Professional Certifications
-- **AWS Certified Solutions Architect – Professional**: Advanced cloud architecture and design expertise
 
 I love architecting high-performance, distributed systems and sharing knowledge through open-source contributions.
 

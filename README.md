@@ -16,7 +16,7 @@ Feel free to explore my projects, contribute, or connect with me.
 - **AI Automation**: Creating sophisticated workflows using Selenium, Make.com, and N8N Automation
 
 ### 📈 Algorithmic Trading Development
-- **Trading Bots**: Building profitable automated trading bots for CEX (Binance, Coinbase, Kraken) and DEX (Uniswap, PancakeSwap, 1inch)
+- **Trading Bots**: Building profitable automated trading bots for CEX (Binance, Bybit, Bitget, MEXC, OKX, ...) and Solana DEX (PumpSwap, Raydium, Axiom, GMGN)
 - **Platform Development**: Creating comprehensive trading platforms with real-time data feeds and risk management
 - **Strategy Implementation**: Developing and backtesting quantitative trading strategies using Python and AI
 - **Market Making**: Building high-frequency trading systems and liquidity provision algorithms
